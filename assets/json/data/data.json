@@ -1,0 +1,18 @@
+{
+  "qr_icon": "Icons.qr_code",
+  "text_car": "Моя машина",
+  "text_child": "Моя машина",
+  "text_home": "Моя машина",
+  "text_wallet": "Моя машина",
+  "text_telephone_number": "Моя машина",
+  "icon_background_color_1": "Color(0xFF4D8EFF)",
+  "icon_background_color_2": "Color(0xFFCDC1FF)",
+  "icon_background_color_3": "Color(0xFF7AE582)",
+  "icon_background_color_4": "Color(0xFF81CCF2)",
+  "icon_background_color_5": "Color(0xFF77EDD9)",
+  "background_color_1": "Color(0xFF4385F6)",
+  "background_color_2": "Color(0xFFCDC1FF)",
+  "background_color_3": "Color(0xFFE4F9E4)",
+  "background_color_4": "Color(0xFF71BBFF)",
+  "background_color_5": "Color(0xFF77EDD9)"
+}
